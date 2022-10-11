@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.lc5900.yapi2mvc
 
 import com.intellij.DynamicBundle
 import org.jetbrains.annotations.NonNls
